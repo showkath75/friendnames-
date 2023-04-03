@@ -1,0 +1,4 @@
+itemname,price
+Chicken biryani,130
+mutton biryani,250
+ 
